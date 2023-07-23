@@ -1,0 +1,79 @@
+﻿STRING 1
+{
+Player 1
+}
+
+STRING 2
+{
+Force 1
+}
+
+STRING 3
+{
+Damage Engine Demo Map
+}
+
+STRING 4
+{
+1
+}
+
+STRING 5
+{
+Bribe
+}
+
+STRING 8
+{
+Ranged attacks deal 50% damage to moving targets, but are armor piercing when the target is still.
+Summoned units take 200% damage, but retaliate with the damage back at the attacker.
+The Archmage is healed when attacked by a water elemental.
+The Knight has a 50% chance to deal a 4x critical strike that pierces 50 armor.
+The Peasant's attacks are always dodged.
+The Mutant's health cannot be reduced below 1.
+Archimonde's attacks will normally kill the target, but instead heal for that amount.
+The Keeper is immune to all damage.
+Type |cffff0000report|r in order to toggle in-depth damage analysis.
+Type |cffff0000damage|r in order to damage selected units
+}
+
+STRING 58
+{
+Source applied an enhanced effect with this damage.
+}
+
+STRING 62
+{
+Reporting has been enabled!
+}
+
+STRING 63
+{
+Reporting has been disabled!
+}
+
+STRING 64
+{
+Ranged damage detected
+}
+
+STRING 65
+{
+Melee damage detected
+}
+
+STRING 66
+{
+Attack damage detected
+}
+
+STRING 67
+{
+Spell damage detected
+}
+
+STRING 68
+{
+Code damage detected
+}
+

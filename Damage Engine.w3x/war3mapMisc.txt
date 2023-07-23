@@ -1,0 +1,5 @@
+[Misc]
+DrainGivesBonusMana=1
+DrainTransfersMana=1
+DrainUsesEtheralBonus=1
+
